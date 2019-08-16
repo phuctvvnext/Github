@@ -1,4 +1,4 @@
-<?php require_once $_SERVER['DOCUMENT_ROOT'].'/template/itshare/inc/header.php'; ?>
+﻿<?php require_once $_SERVER['DOCUMENT_ROOT'].'/template/itshare/inc/header.php'; ?>
 <!-- header_section_wrapper -->
 
 <section id="feature_news_section" class="feature_news_section">
@@ -96,6 +96,7 @@
                 <!-- feature_static_wrapper -->
 
             </div>
+		<p>hello </p>
             <?php  
                 }
             ?>
