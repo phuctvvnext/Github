@@ -82,7 +82,7 @@
                             <?php echo $arrNewLD['preview'] ?>
                         </div>
                         <!-- feature_article_content -->
-
+			<p> sua file index</p>
                         <div class="article_social">
                             <span><i class="fa fa-share-alt"></i><a href="#"><?php echo $arrNewLD['view'] ?></a>lượt đọc</span>
                             <span><i class="fa fa-comments-o"></i><a href="#">4</a>fa-comments-o</span>
