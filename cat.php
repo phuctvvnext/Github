@@ -31,7 +31,7 @@ $cat_id = $_GET['id'];
 
 
 <!-- header_section_wrapper -->
-<p>test stash</p>
+
 <section class="breadcrumb_section">
     <div class="container">
         <div class="row">
