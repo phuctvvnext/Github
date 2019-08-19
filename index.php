@@ -4,6 +4,8 @@
 <section id="feature_news_section" class="feature_news_section">
     <div class="container">
         <div class="row">
+hello
+hello
             <div class="col-md-7">
                 <div class="feature_article_wrapper">
                     <div class="feature_article_img">
